@@ -1,0 +1,50 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    color: black;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+div1 {
+    display: block;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+
+h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+
+ul {
+    list-style-type: disc;
+    padding-left: 40px;
+    margin-top: 0;
+}
+
+
+p em {
+    color: #f78da7;
+    font-style: normal;
+    font-weight: bold;
+}
